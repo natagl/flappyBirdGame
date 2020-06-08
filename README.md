@@ -2,5 +2,5 @@
 
 Following video tutorials  
 Flappy Bird Game Using JavaScript and HTML5 - https://www.youtube.com/watch?v=L07i4g-zhDA
-![img text](/images/Annotation 2020-06-08 144342.jpg)
+![alt text](./images/Annotation 2020-06-08 144342.jpg)
 
